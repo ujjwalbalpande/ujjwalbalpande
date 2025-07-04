@@ -1,6 +1,6 @@
 <h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ujjwal Balpande!<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-- 📚 Student at SDBC, Indore
+- 📚 jave full Stack Devaloper
 - 📫 You can reach me at my email address 'ujjwalbalpande121@gmail.com'.
 
 
